@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 644
+sudo chmod -R +111 */
